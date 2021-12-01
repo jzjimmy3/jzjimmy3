@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jzjimmy3
+- 👋 Hi, I’m Jimmy Zhang
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anything!
